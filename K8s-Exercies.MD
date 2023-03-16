@@ -25,6 +25,6 @@ CronJob --> https://kubernetes.io/docs/tasks/job/automated-tasks-with-cron-jobs/
 
 Secrets --> https://kubernetes.io/docs/tasks/inject-data-application/distribute-credentials-secure/ <br>
 HPA --> https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale-walkthrough/ <br>
-
+CRDs --> https://kubernetes.io/docs/tasks/extend-kubernetes/custom-resources/custom-resource-definitions/ <br>
 
 DNS Look Up command --> kubectl -n demo run tmp-shell --rm -i --tty --image nicolaka/netshoot -- /bin/bash <br>
