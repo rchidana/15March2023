@@ -43,7 +43,7 @@ sudo install minikube /usr/local/bin
 
 Start Minikube single node cluster by specifying docker Driver and with Kubernetes version v1.25.3
 ```
-minikube start --vm-driver=docker --kubernetes-version=v1.25.3
+minikube start --vm-driver=docker 
 ```
 
 
