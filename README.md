@@ -6,6 +6,8 @@ https://drive.google.com/drive/folders/1spz_bxLOic4Bit7-YNni72YAqtWaskSX?usp=sha
 Docker Playground : https://labs.play-with-docker.com/ (Dockerhub credentials required) <br>
 K8s Playground : https://killercoda.com/login (Gmail, GitHub & GitLab credentials work) <br>
 
+My YouTube Channel for reference : https://www.youtube.com/channel/UC-Hv6dZTH_9rj_nezOSa9Iw <br>
+
 ### Installing Latest Docker CE on Ubuntu:
 
 ### Update Ubuntu Libraries
